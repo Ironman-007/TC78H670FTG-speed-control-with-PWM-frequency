@@ -2,7 +2,9 @@
 
 ## Platform:
 #### hardware:
-Adafruit Feather nRF52840 Express, Sparkfun TC78H670FTG, FAULHABER stepper motor
+[Adafruit Feather nRF52840 Express](https://www.adafruit.com/product/4062)),
+[Sparkfun TC78H670FTG](https://www.sparkfun.com/products/16836),
+[FAULHABER stepper motor](https://www.faulhaber.com/en/products/series/dm0620/)
 
 #### firmware development:
 VSCode + PlatformIO
