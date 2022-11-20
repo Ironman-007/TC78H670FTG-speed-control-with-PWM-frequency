@@ -15,3 +15,7 @@ VSCode + PlatformIO
 Control the stepper motor through microstepping, and change the speed through the frequency of the PWM.
 
 ## Result:
+
+
+https://user-images.githubusercontent.com/64370012/202924459-56f4cd26-0f1c-4944-ab36-5ae387e88ca6.mov
+
